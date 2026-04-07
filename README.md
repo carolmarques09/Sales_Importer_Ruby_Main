@@ -20,11 +20,11 @@ Projeto de importação de vendas desenvolvido em Ruby, com interface web simple
 project/
 │
 ├── app/
-│   ├── controllers/
 │   ├── models/
 │   ├── services/
 │
 ├── config/
+│   └── database.rb
 │   └── database.yml
 │
 ├── db/
